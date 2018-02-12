@@ -1,0 +1,9 @@
+/**/ WPCOMSharing.update_facebook_count({
+   "https://islamskole.wordpress.com/elevrad/": {
+      "share": {
+         "comment_count": 0,
+         "share_count": 0
+      },
+      "id": "https://islamskole.wordpress.com/elevrad/"
+   }
+});
